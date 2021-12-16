@@ -1,0 +1,14 @@
+body{
+    font-family: 'Corinthia', cursive;
+}
+h2{
+    font-weight: bolder;
+    font-size: 25px !important;
+}
+canvas{
+    border:5px solid green;
+}
+@keyframes example {
+    from {box-shadow: 1px 1px 38px rgb(6, 53, 116);}
+    to {box-shadow:1px 1px 38px rgba(13, 33, 145, 0.37);}
+    }
